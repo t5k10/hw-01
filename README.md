@@ -1,2 +1,2 @@
-# otus-cpp-elementary
+# otus-cpp-elementary.
 This is a repository for learning the c++ language.
