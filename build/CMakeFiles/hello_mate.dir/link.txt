@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/hello_mate.dir/hello_mate.cpp.o  -o hello_mate 
